@@ -19,6 +19,23 @@
     <!-- Task Completed Screen -->
     <string name="mainheading">All tasks completed</string>
     <string name="text">Nice work!</string>
+    <string name="title_activity_question2_screen1">question2Screen1</string>
+    <string name="title_activity_question2_screen2">question2Screen2</string>
+    <!-- question2Screen2 -->
+    <string name="location">LOCATIONS</string>
+    <string name="para5">You are currently getting results for popular places from India</string>
+    <string name="description">ADD PLACE</string>
+    <string name="title1">Mumbai</string>
+    <string name="condition1">Humidity : 51%</string>
+    <string name="temp1">28, Sunny</string>
+    <string name="title2">Indore</string>
+    <string name="condition2">Humidity : 35%</string>
+    <string name="temp2">24, Smoke</string>
+    <string name="title3">Bhopal</string>
+    <string name="condition3">Humidity : 51%</string>
+    <string name="temp3">21, Clear</string>
+
+
 
 
 </resources>
